@@ -804,7 +804,7 @@
 			input[type="reset"].alt:hover,
 			input[type="button"].alt:hover,
 			.button.alt:hover {
-				background-color: rgba(144, 144, 144, 0.075);
+				background-color: #e7807e;
 			}
 
 			input[type="submit"].alt:active,
