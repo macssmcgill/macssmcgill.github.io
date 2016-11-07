@@ -1,5 +1,5 @@
 # macssmcgill.github.io
-## Website for McGill Anatomy and Cell Biology Students' Society
+## McGill Anatomy and Cell Biology Students' Society
 
 The McGill Anatomy and Cell Biology Student Society aims to serve the academic and social needs of all students in Anatomy and Cell Biology! With so many Anatomy and Cell Bio classes this year rely on MACSS to provide NTCs of the highest quality. Our office is always open to visitors so come by to chat or if you need gloves or a lab coat!
 
