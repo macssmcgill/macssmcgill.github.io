@@ -1,6 +1,6 @@
 @charset "UTF-8";
 @import url(font-awesome.min.css);
-@import url("http://fonts.googleapis.com/css?family=Lato:300,400");
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400");
 
 /*
 	Interphase by TEMPLATED
@@ -57,6 +57,10 @@
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 1em 0;
+    -webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 1s; /* Firefox < 16 */
+      -o-animation: fadein 1s; /* Opera < 12.1 */
+        animation: fadein 1s;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -198,10 +202,10 @@
 			border-top: medium double rgba(144, 144, 144, 0.25);
 			display: inline-block;
 			padding: 2em 2em 0 2em;
-      -webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
-      -moz-animation: fadein 3s; /* Firefox < 16 */
-        -o-animation: fadein 3s; /* Opera < 12.1 */
-          animation: fadein 3s;
+      -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+      -moz-animation: fadein 2s; /* Firefox < 16 */
+        -o-animation: fadein 2s; /* Opera < 12.1 */
+          animation: fadein 2s;
 		}
 
 /* Form */
